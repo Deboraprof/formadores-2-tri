@@ -7,3 +7,14 @@ h1{
 p{
   text-align: justify; color: rgb(50, 0, 255);
 }
+#imagem1 {
+  width: 15%;
+  border: 10px double black;
+  margin-left: 10%
+}
+
+#paragrafo1{
+    border: 10px double black;
+      margin-left: 10%;
+      margin-right: 30%
+}
