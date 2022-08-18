@@ -18,3 +18,14 @@ p{
       margin-left: 10%;
       margin-right: 30%
 }
+.Flores {
+  text-align: justify; color: blue;
+  font-size: 50px;
+
+}
+.tiposFlores {
+  border: 10px double black;
+  margin-left: 5%;
+  margin-right: 30%;
+  padding-left: 3%
+}
