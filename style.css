@@ -16,7 +16,9 @@ p{
 #paragrafo1{
     border: 10px double black;
       margin-left: 10%;
-      margin-right: 30%
+      margin-right: 40%;
+      text-align: justify; font-size: 30px
+
 }
 .Flores {
   text-align: justify; color: blue;
@@ -27,5 +29,14 @@ p{
   border: 10px double black;
   margin-left: 5%;
   margin-right: 30%;
-  padding-left: 3%
+  padding-left: 3%;
+  background-color: pink;
+}
+
+ol {
+  display: inline-block;
+  vertical-align: top;
+}
+img {
+  width: 30%
 }
